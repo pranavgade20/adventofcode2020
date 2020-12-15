@@ -33,6 +33,7 @@ public class Day13_2 {
         }
 
         System.out.println(target);
+        System.out.println(target%additive);
     }
 }
 
